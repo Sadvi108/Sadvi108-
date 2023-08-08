@@ -3,7 +3,7 @@
 #### I am a Computer Science student
 ![I am a Computer Science student](https://media.licdn.com/dms/image/D4D16AQFjozkSsb1e_A/profile-displaybackgroundimage-shrink_350_1400/0/1691508861347?e=1697068800&v=beta&t=JXiFZRIvEMT37KUsX_j0ITqIMrlAHgAb1RE04Z8R7BM)
 
-👋 Hey there, I'm [Your Name/Username]!
+👋 Hey there, I'm Sadvi!
 
 🎓 Computer Science student | 🛡️ Cybersecurity enthusiast
 
