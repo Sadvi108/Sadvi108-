@@ -7,7 +7,7 @@
 
 🎓 Computer Science student | 🛡️ Cybersecurity enthusiast
 
-🌐 Exploring the realms of code and security to build a safer digital world. Currently diving deep into the world of programming languages like [List some languages you're learning, e.g., Python, Java] while specializing in cybersecurity. Passionate about understanding the intricate dance between technology and safeguarding against digital threats.
+🌐 Exploring the realms of code and security to build a safer digital world. Currently diving deep into the world of programming languages like Python, Java. While specializing in cybersecurity. Passionate about understanding the intricate dance between technology and safeguarding against digital threats.
 
 🔐 Cybersecurity Specialization:
 
